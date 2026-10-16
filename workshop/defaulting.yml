@@ -1,0 +1,4 @@
+id: find-or-expressions
+language: TypeScript
+rule:
+  pattern: $VALUE || $FALLBACK

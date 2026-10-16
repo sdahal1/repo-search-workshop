@@ -1,0 +1,11 @@
+{
+  "name": "@workshop/telemetry",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Formats local demo observations without scheduling requests",
+  "exports": "./src/format.ts",
+  "scripts": {
+    "test": "node --test test/format.test.ts"
+  }
+}
